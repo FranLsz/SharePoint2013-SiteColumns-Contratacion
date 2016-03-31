@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{269ce7dc-999c-4c12-844b-d0c82b3007da}"
+       Name="Manager"
+       DisplayName="Manager"
+       Type="User"
+       UserSelectionMode="0"
+       Required="TRUE"
+       Group="MiApp Site Columns">
+  </Field>
+</Elements>

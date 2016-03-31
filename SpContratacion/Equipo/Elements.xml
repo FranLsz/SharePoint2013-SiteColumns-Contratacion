@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Field
+       ID="{9fc27cf8-d08c-4a22-aa4e-893a7a652dde}"
+       Name="Equipo"
+       DisplayName="Equipo"
+       Type="Choice"
+       Required="TRUE"
+       Group="MiApp Site Columns">
+
+    <CHOICES>
+      <CHOICE>I+D</CHOICE>
+      <CHOICE>Producción</CHOICE>
+      <CHOICE>Desarrollo</CHOICE>
+      <CHOICE>IT</CHOICE>
+    </CHOICES>
+
+  </Field>
+</Elements>

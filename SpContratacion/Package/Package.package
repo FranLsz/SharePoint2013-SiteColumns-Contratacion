@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="121579da-8521-4df7-bd93-9203ec420bb8" solutionId="121579da-8521-4df7-bd93-9203ec420bb8" resetWebServer="false" sharePointProductVersion="15.0" name="SpContratacion" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="8d5fdf9c-f105-4414-ae4a-58e94479608c" />
+  </features>
+</package>
